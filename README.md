@@ -4,6 +4,7 @@ programa que calcula el area perimetro de un cuadrado o el volumen y el perimetr
 ****Todo lo escrito entre comillas en el codigo al escribirlas de nuevo no las debe llavar****
 Ejemplo 
 "dir" seria igual a dir
+---El archivo zip deve descomprimirse antes de todo---
 ---Desde la ID de netbeans---
 1-descargar el programa
 2-Arrastar el archivo Objeto-master asta el acceso del neatbeans para que je abra el programa;                                           
